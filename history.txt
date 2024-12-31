@@ -1,0 +1,33 @@
+    1  ls
+    2  git
+    3  history
+    4  clear
+    5  cd ~
+    6  cd /
+    7  ls
+    8  cd !
+    9  cd ~
+   10  mkdir lab1
+   11  cd lab1
+   12  git init
+   13  git status
+   14  touch someFile.txt
+   15  vim someFile.txt
+   16  cat someFile.txt
+   17  git add .
+   18  git commit -m "Initial commit"
+   19  git config --global user.email "zZ87111ff@gmail.com"
+   20  git config --global user.name "Artemlial"
+   21  git log
+   22  git commit -m "Initial commit"
+   23  git log
+   24  history > history.txt
+   25  cat history.txt
+   26  cd -
+   27  git clone https://github.com/Artemlial/lab3.git
+   28  cd lab3
+   29  touch other_file.txt
+   30  vim other_file.txt
+   31  git add .
+   32  git commit -m "Commit for Github"
+   33  history > history.txt
